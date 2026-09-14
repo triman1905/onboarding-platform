@@ -1,0 +1,6 @@
+Candidate ID,First Name,Last Name,Email,Joining Date,Location,Verification Link,Phone,Department,Role,Highest Qualification,Graduation,Previous Employer,Experience
+V001,Aarav,Mehta,tkkaur1905@gmail.com,2026-10-15,Gurugram,https://example.com/verification/V001,9311838864,Technology,Analyst,B.Tech,Delhi University,Infosys,2 years
+V002,Simran,Kapoor,rehatkaur1905@gmail.com,2026-10-15,Gurugram,https://example.com/verification/V002,8307593137,Technology,Analyst,MCA,Pune University,TCS,3 years
+V003,Karan,Singh,karan.singh.test@example.com,2026-10-15,Bengaluru,https://example.com/verification/V003,7303803252,Operations,Associate,B.Com,Bengaluru University,Wipro,1 year
+V004,Ananya,Rao,ananya.rao.test@example.com,2026-10-15,Bengaluru,https://example.com/verification/V004,9876543210,Operations,Associate,B.Sc,Osmania University,Accenture,4 years
+V005,Vihaan,Nair,vihaan.nair.test@example.com,2026-10-15,Hyderabad,https://example.com/verification/V005,9123456780,Technology,Analyst,B.Tech,Anna University,Cognizant,2 years
